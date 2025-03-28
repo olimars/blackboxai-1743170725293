@@ -1,0 +1,73 @@
+{
+  "recommendations": [
+    // Python
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.black-formatter",
+    "ms-python.isort",
+    "ms-python.flake8",
+    "ms-python.mypy-type-checker",
+
+    // Django
+    "batisteo.vscode-django",
+    "bigonesystems.django",
+
+    // Docker
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-containers",
+
+    // Database
+    "cweijan.vscode-postgresql-client2",
+    "mtxr.sqltools",
+    "mtxr.sqltools-driver-pg",
+
+    // REST API
+    "rangav.vscode-thunder-client",
+    "humao.rest-client",
+
+    // Git
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+
+    // Code Quality
+    "streetsidesoftware.code-spell-checker",
+    "davidanson.vscode-markdownlint",
+    "redhat.vscode-yaml",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+
+    // Testing
+    "littlefoxteam.vscode-python-test-adapter",
+    "hbenl.vscode-test-explorer",
+
+    // Debugging
+    "ms-python.debugpy",
+
+    // Markdown
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-preview-github-styles",
+
+    // HTML/CSS/JS
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+
+    // Utilities
+    "christian-kohler.path-intellisense",
+    "visualstudioexptteam.vscodeintellicode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "wayou.vscode-todo-highlight",
+    "gruntfuggly.todo-tree",
+
+    // Themes and Icons
+    "pkief.material-icon-theme",
+    "zhuangtongfa.material-theme",
+
+    // Remote Development
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit"
+  ],
+  "unwantedRecommendations": []
+}
